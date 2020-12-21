@@ -74,7 +74,7 @@
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand navi" href="home.php">Sparks Bank <i class="fas fa-university"></i></a>
+    <a class="navbar-brand navi" href="index.php">Sparks Bank <i class="fas fa-university"></i></a>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     </div>
   </div>
